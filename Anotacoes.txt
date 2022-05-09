@@ -1,0 +1,6 @@
+Links úteis:
+
+Download do Git bash:
+https://git-scm.com/downloads
+
+O Git bash um terminal/console estendido para otimizar o uso do Git.
